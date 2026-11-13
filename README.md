@@ -26,9 +26,7 @@ currently_learning:
   - Data Structures & Algorithms
   - Software Engineering
   - Development Fundamentals
-goals:
-  - Google Summer of Code
-  - Linux Foundation Mentorship
+
 ```
 
 I'm a computer science student exploring the world of software development, experimenting with new technologies, and learning by building.
